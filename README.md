@@ -16,7 +16,7 @@ Your function `breakfastChecker` should be able to determine if a *single* objec
 
 Be sure to change the values in the objects to test your function in multiple conditions.
 
-> Hint: Just checking eggs and bacon first. Take small steps!
+> Hint: Just check eggs and bacon first. Take small steps!
 
 ## Stretch
 
