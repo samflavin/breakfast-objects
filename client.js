@@ -12,6 +12,9 @@ let refrigeratorContents  = {
   onions: 1,
 };
 
+// You shouldn't need to change anything above this line initially
+// You may change it to test different scenarios, but it should work as is
+
 function breakfastChecker(contents) {
   // Your code goes here
 
