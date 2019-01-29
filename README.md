@@ -14,6 +14,8 @@ A few notes:
 
 Your function `breakfastChecker` should be able to determine if an object with a list of supplies has enough ingredients to make breakfast. You do not need to worry about multiple objects (you will make breakfast from only ingredients in the refrigerator OR pantry).
 
+Be sure to change the values in the objects to test your function in multiple conditions.
+
 ## Stretch
 
 The picky eaters might invite some picky friends, but you won't know until seconds before you have to make a decision. Allow the function to accept a second parameter - the total number of picky eaters - to allow you to make the calculation at the last second.
