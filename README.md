@@ -10,7 +10,7 @@ Here are the demands from the picky eaters:
 A few notes:
 
 - A bag of pancake mix can make 10 pancakes.
-- A pancake must have at least 15 chocolate chips to be chocolatey enough for the picky eaters.
+- A single pancake must have at least 15 chocolate chips to be chocolatey enough for the picky eaters.
 
 Your function `breakfastChecker` should be able to determine if a *single* object with a list of supplies has enough ingredients (contents) to make breakfast. You do not need to worry about multiple objects (you will make breakfast from only ingredients in the refrigerator OR pantry).
 
